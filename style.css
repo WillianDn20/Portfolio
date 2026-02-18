@@ -185,6 +185,18 @@ body {
     font-weight: 500;
 }
 
+#personalContent li {
+    margin-left: 20px;
+    font-size: 0.9em;
+}
+
+#personalContent p {
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 0.9em;
+}
+
+
 #icons{
     display: flex;
     align-items: center;
